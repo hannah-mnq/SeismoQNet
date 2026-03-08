@@ -1,0 +1,22 @@
+# SeismoQNet — Hybrid Quantum-Deep Learning Seismic Pipeline
+# Install with: pip install -r requirements.txt
+
+# ── Core ──────────────────────────────────────
+numpy
+scipy
+matplotlib
+
+# ── Deep Learning (Phase 2 - CAE) ─────────────
+torch
+torchvision
+
+# ── Quantum Computing (Phase 3) ───────────────
+qiskit
+qiskit-aer
+
+# ── Seismic Data Handling (Phase 4) ───────────
+obspy
+
+# ── Utilities ─────────────────────────────────
+scikit-learn
+tqdm
