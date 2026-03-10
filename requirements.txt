@@ -20,3 +20,10 @@ obspy
 # ── Utilities ─────────────────────────────────
 scikit-learn
 tqdm
+
+
+torch
+torchvision
+numpy
+matplotlib
+scipy
